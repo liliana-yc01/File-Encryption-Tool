@@ -1,0 +1,7 @@
+Welcome to File Encryption Tool
+
+1. Generate Key
+2. Encrypt File
+3. Decrypt File
+4. Exit
+Choose (1-4): 

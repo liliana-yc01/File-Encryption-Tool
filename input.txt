@@ -1,0 +1,1 @@
+C is powerful and efficient, used for system programming, embedded systems, and high-performance applications.
